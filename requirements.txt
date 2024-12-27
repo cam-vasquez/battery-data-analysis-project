@@ -1,2 +1,9 @@
-
+pandas
 streamlit
+seaborn
+plotly
+matplotlib
+scikit-learn
+numpy
+os-sys
+

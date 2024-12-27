@@ -5,5 +5,4 @@ plotly
 matplotlib
 scikit-learn
 numpy
-os-sys
 
